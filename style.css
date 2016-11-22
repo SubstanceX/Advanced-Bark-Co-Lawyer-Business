@@ -1,0 +1,22 @@
+.jumbotron {
+    color:Black;
+    background-image: url(https://www.2civility.org/wp-content/uploads/lawyer-advertising.jpg)
+}
+div {
+    color: black;
+}
+h1 {
+    font-family: Times New Roman;
+    font-style: italic;
+    text-align: center; 
+}
+ #text1{
+    background-color: white;
+}
+body {
+    color:white;
+    background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_qXd4u8TEMraEVJZq7Y2KDOtVkgsRpjs5AIJ2-h2QiI1Aet0M0Q')
+}
+.container{
+    margin-bottom: 20px;
+}
